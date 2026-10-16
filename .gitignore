@@ -1,0 +1,19 @@
+# Lokale Aufnahmen, Laufzeitdaten und Sicherungen bleiben auf diesem Rechner.
+diagnostics/
+backups/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+*.wav
+*.mp3
+*.flac
+*.aac
+*.m4a
+.DS_Store
+Thumbs.db
+*.zip
+!Audio_LAN_Mac_Windows.zip
